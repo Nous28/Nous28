@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nous28
 - 👀 I’m interested in fronted
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Html/Css & JavaScript
 - 💞️ I’m looking to collaborate on Starup
 - 📫 How to reach me Facebook/instagram 
 
